@@ -7,7 +7,7 @@ namespace Rayen_Nasri
     {
         static void Main(string[] args)
         {
-            int[] T = new int[51];
+            int[] T = new int[];
             int i = 0;
             while (i <= 50)
             {

@@ -1,13 +1,11 @@
-﻿using System;
-using System.Diagnostics.CodeAnalysis;
-namespace Rayen_Nasri
+﻿namespace Rayen_Nasri
 
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int[] T = new int[51];
+            int[] T = [];
             int i = 0;
             Random random = new Random();
             while (i <= 50)
