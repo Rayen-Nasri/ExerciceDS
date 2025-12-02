@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PL02-P04\\source\\repos\\Rayen_Nasri\\Rayen_Nasri.csproj": {}
+    "C:\\Users\\PL02-P04\\Desktop\\Rayen_Nasri\\Rayen_Nasri.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PL02-P04\\source\\repos\\Rayen_Nasri\\Rayen_Nasri.csproj": {
+    "C:\\Users\\PL02-P04\\Desktop\\Rayen_Nasri\\Rayen_Nasri.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PL02-P04\\source\\repos\\Rayen_Nasri\\Rayen_Nasri.csproj",
+        "projectUniqueName": "C:\\Users\\PL02-P04\\Desktop\\Rayen_Nasri\\Rayen_Nasri.csproj",
         "projectName": "Rayen_Nasri",
-        "projectPath": "C:\\Users\\PL02-P04\\source\\repos\\Rayen_Nasri\\Rayen_Nasri.csproj",
+        "projectPath": "C:\\Users\\PL02-P04\\Desktop\\Rayen_Nasri\\Rayen_Nasri.csproj",
         "packagesPath": "C:\\Users\\PL02-P04\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PL02-P04\\source\\repos\\Rayen_Nasri\\obj\\",
+        "outputPath": "C:\\Users\\PL02-P04\\Desktop\\Rayen_Nasri\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PL02-P04\\AppData\\Roaming\\NuGet\\NuGet.Config",

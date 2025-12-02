@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics.CodeAnalysis;
 namespace Rayen_Nasri
 
@@ -9,11 +9,10 @@ namespace Rayen_Nasri
         {
             int[] T = [];
             int i = 0;
-            Random random = new Random();
             while (i <= 50)
             {
-                // remplir le tableau de manier aliatoire
-                int n = random.Next(0, 10);
+                Console.WriteLine("Un entier ");
+                int n = int.Parse(Console.ReadLine());
                 if (n != -1)
                 {
                     break;
@@ -32,8 +31,7 @@ namespace Rayen_Nasri
 
             RechercheSeq(T, i , x);
             Afficher(T , i);
-            
-            
+
 
 
         }
